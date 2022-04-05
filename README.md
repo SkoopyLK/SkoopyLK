@@ -5,7 +5,7 @@
 
 📫 How to reach me
 
-`Telegram:` [@imtrulyjanindu](https://t.me/kavishka_dilhara) <br>
+`Telegram:` [@Kavishka_Dilhara](https://t.me/kavishka_dilhara) <br>
 `Website:` [jj47.ml](https://jj47.ml) <br> 
 `Email:` janindu@jj47.ml <br>
 
