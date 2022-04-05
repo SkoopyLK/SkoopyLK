@@ -1,50 +1,24 @@
----
-title: AshifMohammad
-date: '2020-08-22'
-spoiler: Code Styled Readme Template
-categories: ["code-styled", "all-profile"]
-githubUsername: 'AshifMohammad'
----
+<p align="center"> <h1 align="center"> Janindu Malshan </h1> </p>
 
+|<a href="https://t.me/imjanindu/"><img src="https://telegra.ph/file/cef8f20ec0e84b67fbbbb.jpg" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------:|
+|       **[Portfolio](https://janindu.com)**                                                                                |
 
+<br>✨ About Me
 
-### Hi there 👋
+I'm Janindu. I'm a Full Stack Developer who is passionate about making projects, creating technology to elevate people, and building community and currently working on projects at [Jaguar Bots](https://t.me/JaguarBots). I love Python programming.
 
-<h2> I'm Ashif Zafar! <img src="https://media.giphy.com/media/S8kcDWOvua4l6lJ0Az/source.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.cdkglobal.com/us">CDK Global Inc.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+📫 How to reach me
 
-[![Twitter: Ashif](https://img.shields.io/twitter/follow/beingAshifZafar?style=social)](https://twitter.com/beingAshifZafar)
-[![Linkedin: Ashif](https://img.shields.io/badge/-AshifZafar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashif-zafar-70618434/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/AshifMohammad?label=follow&style=social)](https://github.com/AshifMohammad)
+`Telegram:` [@imtrulyjanindu](https://t.me/About_Janindu) <br>
+`Website:` [jj47.ml](https://jj47.ml) <br> 
+`Email:` janindu@jj47.ml <br>
 
+<p align="center">
+	<img src=https://github-readme-stats.vercel.app/api?username=imjanindu&show_icons=true&theme=midnight-purple alt=ImJanindu />
+</p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## 💰 Support Me
 
-```javascript
-const ashifZafar = {
-  pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, Java, C# ],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, React-Testing-library,  docker, ansible , bamboo , devOps  ],
-  architecture: ["microfrontend", "miroservices","event-driven", "design system pattern", "behavior-driven-development", "test-driven-development"],
-  techCommunities: {
-                        coorganizer: ["corbiton","apache", "unicef"],
-                        speaker: "English/Urdu",
-                        workExperiences: [{companyName:"waltDisneyLondon", role:"programmerAnalyst"},
-                                          {companyName:"cdkGlobalInc", role:"softwareEngineer"},]
+<a href="https://ko-fi.com/jaguarbots"><img style="height:50px;" align="left" alt="ko-fi" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0"></a>
 
-
-                                           
-                      },
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
-
- <img src="https://user-images.githubusercontent.com/20770645/90959204-22aafa00-e4b7-11ea-94d3-0139a8b1fd97.jpg" width="230">
- 
- ---
- ⭐️ From [@Ashif](https://github.com/Ashif)
